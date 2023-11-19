@@ -1,0 +1,19 @@
+.App {
+  display: flex;
+  text-align: center;
+  background: linear-gradient(
+    to left bottom,
+    rgb(251, 126, 179),
+    rgb(253, 211, 173)
+  );
+  width: 500px;
+  margin: 0 auto;
+  padding: 20px;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+#root {
+  width: 100vw;
+  height: 100vh;
+}
